@@ -29,3 +29,12 @@ a{
 .centralizar {
 	text-align: center;
 }
+
+.img-campanha {
+	border: 10px solid #C3C3AE;
+}
+
+h1 {
+	color: #828271;
+	font-size: 1.2em;
+}
